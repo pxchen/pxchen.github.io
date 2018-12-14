@@ -5,6 +5,7 @@ date:   2018-12-14 09:00:13
 categories:
   - 微服务
 permalink: /archivers/istio-install-part1
+nocomments: false
 ---
 
 # k8s集群安装
